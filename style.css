@@ -1,6 +1,7 @@
 body{
    margin: 0;
    font: 16px / 24px D-DIN-Medium, Arial, Verdana, sans-serif;
+   overflow-x:hidden;
 }
 .header{
     height: 100px;
