@@ -97,8 +97,7 @@ li:hover{
 }
 .btn-1{
     background-color: transparent;
-    border-color: #fff;
-    border-width: 2px;
+    border:1px solid white;
     height: 50px;
     width: 175px;
     color: #fff;
